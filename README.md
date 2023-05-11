@@ -22,3 +22,7 @@ GitHub bisa dikunjungi melalui link berikut ini https://github.com
 ## fungsi GitHub Pages
 
 GitHub pages merupakan salah satu fitur dari GItHub yang di gunakan untuk mempublikasikan website statis/ website dokumentasi. 
+
+## Hasil Belajar Day 11
+
+bsa lihat hasil belajar melalui link berikut ini https://alpaisyalak.github.io/sacode-ii-day-11-2023/
