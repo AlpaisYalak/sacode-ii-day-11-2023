@@ -25,4 +25,4 @@ GitHub pages merupakan salah satu fitur dari GItHub yang di gunakan untuk mempub
 
 ## Hasil Belajar Day 11
 
-bsa lihat hasil belajar melalui link berikut ini https://alpaisyalak.github.io/sacode-ii-day-11-2023/
+bsa lihat hasil belajar melalui link berikut ini https://alpaisyalak.github.io/sacode-ii-day-11-2023/gi
