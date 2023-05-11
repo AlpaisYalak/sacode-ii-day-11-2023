@@ -6,7 +6,7 @@ di gunakan untuk mengamankan sister/ website. biasanya menampilkan form Login ya
 Digunakan oleh pengguna sistem / website untuk membuat akun baru. Biasanya teriri dari biodata dan juga data kemanan seperti user name atau kata sandi
 ## fungsi Framework CSS Bootstrap
 
-<img src="./screenshot/bootstrap.jpg" width="300px">
+<img src="https://github.com/AlpaisYalak/sacode-ii-day-11-2023/blob/main/_screenshots/Bootstrap.jpg?raw=true" width="300px">
 
 Bootsrap merupakan salah satu Fremework CSS. Digunakan untuk memudakan para web developer dalam mendesain sebuah sistem informasih atau website
 
